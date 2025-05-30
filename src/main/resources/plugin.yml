@@ -1,0 +1,6 @@
+name: welcomeplugin
+main: org.jasn.welcome.welcome
+version: 1.0
+api-version: 1.19
+description: A simple plugin that welcomes players on join.
+author: Jasn
